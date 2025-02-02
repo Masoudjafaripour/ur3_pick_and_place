@@ -1,0 +1,3 @@
+<robot name="ur5e">
+    <include filename="$(find ur_description)/urdf/ur5e.urdf.xacro" />
+</robot>
